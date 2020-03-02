@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
-languageCode = "en-us"
-title = "Okkur - Syna"
+languageCode = "de-de"
+title = "Musikkepalle Neuses e.V."
 theme = "syna"
 enableGitInfo = true
 version = "0.16.2"
@@ -22,8 +22,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Musikkapelle Neuses e.V."
+  description = "TODO"
 
   [params.style]
     #background = "secondary"
@@ -32,7 +32,7 @@ lastmod = ["lastmod", ":git", "date"]
   # Assets relative to 'static/'
   [params.custom]
     favicon = "favicon.ico"
-    favicon_ico_sizes = "16x16 32x32"
+    favicon_ico_sizes = "16x16 32x32 64x64"
     favicon_png = "favicon.png"
     favicon_svg = "favicon.svg"
 
@@ -51,7 +51,7 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
+    primary = "#751403"
     secondary = "#868e96"
     success = "#008f54"
     info = "#00c9dc"
@@ -63,54 +63,82 @@ lastmod = ["lastmod", ":git", "date"]
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
 # configurable.
+
+# Chronik | Jubiläum | Verein | Mitglied werden | Kalender | Impressum | Datenschutz
+
 [[menu.main]]
   url = "/"
   name = "Home"
   weight = 10
 
 [[menu.main]]
-  url = "/about"
-  name = "About Us"
+  url = "#current"
+  name = "Aktuelles"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
-  name = "Contact"
+  url = "#calendar"
+  name = "Kalender"
   weight = 30
 
-[[menu.footer]]
-  url = "#"
-  name = "Link"
-  weight = 10
-
-[[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
-
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
-  weight = 30
-
-[[menu.copyright_footer]]
+[[menu.main]]
   url = "/about"
-  name = "About Us"
+  name = "Über uns"
+  weight = 40
+
+[[menu.main]]
+  url = "#"
+  name = "Verein"
+  weight = 50
+
+[[menu.main]]
+  url = "/chronik"
+  name = "Chronik"
+  weight = 60
+
+[[menu.main]]
+  url = "/jubilaeum"
+  name = "Jubiläum"
+  weight = 70
+
+[[menu.main]]
+  url = "#contact"
+  name = "Kontakt"
+  weight = 80
+
+[[menu.footer]]
+  url = "/member"
+  name = "Mitglied werden"
+  weight = 10
+
+[[menu.footer]]
+  url = "/privacy"
+  name = "Datenschutz"
+  weight = 30
+
+[[menu.footer]]
+  url = "/impressum"
+  name = "Impressum"
+  weight = 30
+
+[[menu.copyright_footer]]
+  url = "/impressum"
+  name = "Impressum"
   weight = 10
 
 [[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
+  url = "/privacy"
+  name = "Datenschutz"
   weight = 30
 
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 20
+#  name = "facebook"
+#  pre = "fab fa-facebook-f"
+#  url = "#"
 
-[[menu.footer_social]]
-  weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 30
+#  name = "linkedin"
+#  pre = "fab fa-linkedin-in"
+#  url = "#"

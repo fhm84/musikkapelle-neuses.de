@@ -5,17 +5,19 @@ date = "2016-09-07"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+menu_title = ""
 
 [asset]
-  title = "Logo Title"
-  image = "logo.svg"
-  text = "Logo Subtext"
+  title = "Musikkapelle Neuses"
+  image = "logo.png"
+  text = "Musikkapelle Neuses"
   url = "#"
 +++
 
-#### Description Title
+#### Musikkapelle Neuses e.V.
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+<i class="fas fa-map-pin fa-stack"></i> 97999 Igersheim-Neuses
+
+<i class="fas fa-mobile-alt fa-stack"></i> Tel.: 07931/45242
+
+<i class="fas fa-at fa-stack"></i> E-Mail: info@musikkapelle-neuses.de
