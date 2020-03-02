@@ -15,4 +15,5 @@ _Vertretungsberechtigter Vorstand:_
 Andreas Halbmann (1. Vorsitzender)  
 Fabian Halbmann (2. Vorsitzende)
 
-_Registergericht:_ Amtsgericht Bad Mergentheim
+_Registergericht:_ Amtsgericht Ulm  
+VR 680451 

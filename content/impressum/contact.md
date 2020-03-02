@@ -14,8 +14,11 @@ title = "Musikkapelle Neuses e.V."
 
 +++
 
+Finkenstraße 7  
 97999 Igersheim-Neuses  
+
 Telefon: +49 7931 45242  
 Telefax: +49 7931 45242  
+
 E-Mail: info@musikkapelle-neuses.de  
 Internet: www.musikkapelle-neuses.de  
