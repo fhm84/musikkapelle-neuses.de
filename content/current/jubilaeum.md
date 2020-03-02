@@ -1,12 +1,12 @@
 +++
-#fragment = "content"
-headless = "true"
+fragment = "content"
+headless = true
 #disabled = true
 #date = "2020-02-09"
 weight = 100
 #background = "secondary"
 
-title = "Aktuelles"
+title = "60-jähriges Jubiläum"
 #subtitle = ""
 +++
 

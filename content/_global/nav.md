@@ -18,9 +18,9 @@ search = true
   image = "logo.png"
   text = "Musikkapelle Neuses e.V."
 
-[repo_button]
-  url = "https://github.com/okkur/syna"
-  text = "" # default: "Star"
-  icon = "fab fa-github" # defaults: "fab fa-github"
+#[repo_button]
+#  url = "https://github.com/okkur/syna"
+#  text = "" # default: "Star"
+#  icon = "fab fa-github" # defaults: "fab fa-github"
   
 +++

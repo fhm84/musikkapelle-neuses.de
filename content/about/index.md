@@ -1,4 +1,4 @@
 +++
-title = "About Syna"
-date = "2017-10-05"
+title = "Über Uns"
+date = "2020-03-02"
 +++

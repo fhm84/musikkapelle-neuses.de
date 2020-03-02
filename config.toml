@@ -1,9 +1,10 @@
 # Site settings
 baseurl = "/"
 languageCode = "de-de"
+defaultContentLanguage = "de"
 title = "Musikkepalle Neuses e.V."
 theme = "syna"
-enableGitInfo = true
+enableGitInfo = false
 version = "0.16.2"
 
 # Google Analytics tracking
@@ -23,7 +24,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [params]
   name = "Musikkapelle Neuses e.V."
-  description = "TODO"
+  description = "Musikkapelle Neuses"
 
   [params.style]
     #background = "secondary"
@@ -82,7 +83,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.main]]
-  url = "/about"
+  url = "#" # "/about"
   name = "Über uns"
   weight = 40
 
@@ -92,12 +93,12 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 50
 
 [[menu.main]]
-  url = "/chronik"
+  url = "#" # "/chronik"
   name = "Chronik"
   weight = 60
 
 [[menu.main]]
-  url = "/jubilaeum"
+  url = "#"  # "/jubilaeum"
   name = "Jubiläum"
   weight = 70
 

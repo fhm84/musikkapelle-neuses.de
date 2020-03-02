@@ -13,6 +13,6 @@ title = "Vorstand"
 _Vertretungsberechtigter Vorstand:_
 
 Andreas Halbmann (1. Vorsitzender)  
-Carola Landwehr (2. Vorsitzende)
+Fabian Halbmann (2. Vorsitzende)
 
 _Registergericht:_ Amtsgericht Bad Mergentheim
