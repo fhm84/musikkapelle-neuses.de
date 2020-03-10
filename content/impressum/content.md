@@ -29,10 +29,10 @@ Musikkapelle Neuses e.V.
 
 ### Realisierung / Administration
 
-Fabian Halbmann
-97999 Igersheim-Neuses
+Fabian Halbmann  
+97999 Igersheim-Neuses  
 webmaster@musikkapelle-neuses.de
-
+  
 
 ### Information gemäß § 36 VSBG
 
