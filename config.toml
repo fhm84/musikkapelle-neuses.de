@@ -83,7 +83,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.main]]
-  url = "#" # "/about"
+  url = "#portfolio" # "/about"
   name = "Über uns"
   weight = 40
 
@@ -93,7 +93,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 50
 
 [[menu.main]]
-  url = "#" # "/chronik"
+  url = "/chronicals"
   name = "Chronik"
   weight = 60
 

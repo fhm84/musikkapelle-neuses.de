@@ -48,4 +48,9 @@ button_text = "Absenden" # defaults to theme default
 [[fields.hidden]]
   name = "someID"
   value = "musikkapelle-neuses.de"
+
+[[fields.hidden]]
+  name = "_next"
+  value = "http://www.musikkapelle-neuses.de/#contact"
+
 +++
