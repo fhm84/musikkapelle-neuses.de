@@ -3,7 +3,7 @@ fragment = "content"
 headless = true
 #disabled = true
 #date = "2020-02-09"
-weight = 100
+weight = 500
 #background = "secondary"
 
 title = "60-jähriges Jubiläum"
