@@ -1,9 +1,10 @@
 +++
-fragment = "contact"
+fragment = "contact_bg"
 #disabled = true
 date = "2019-08-06"
 weight = 1100
 background = "secondary"
+bgImage = "images/bg-contact.jpg"
 form_name = "defaultContact"
 
 title = "Kontakt"
