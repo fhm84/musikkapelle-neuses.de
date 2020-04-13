@@ -1,4 +1,4 @@
 #!/bin/bash
 apt-get install rsync
 
-rsync -ruv pulic ${USERNAME}@web172.dogado.net:/httpdocs
+rsync -ruv --delete --rsh=ssh pulic ${USERNAME}@web172.dogado.net:/httpdocs
