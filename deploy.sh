@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rsync -ruv pulic ${username}@web172.dogado.net:/httpdocs
+rsync -ruv pulic ${USERNAME}@web172.dogado.net:/httpdocs
