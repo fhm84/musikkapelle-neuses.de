@@ -2,8 +2,7 @@ name: dogado
 
 on:
   push:
-    branches:
-      - main
+    branches: [master]
 
 jobs:
   deploy:
