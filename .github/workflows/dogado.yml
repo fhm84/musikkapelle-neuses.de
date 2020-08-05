@@ -43,5 +43,5 @@ jobs:
       #    script: whoami
 
       - name: Deploy
-        run: rsync -ratlz --rsh="sshpass -p ${{ secrets.DEPLOY_KEY }} ssh -o StrictHostKeyChecking=no -l ${{ secrets.DEPLOY_USER }}" ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:httpdocs/TEST /public
+        run: rsync -ratlz --rsh="sshpass -p ${{ secrets.DEPLOY_KEY }} ssh -o StrictHostKeyChecking=no -l ${{ secrets.DEPLOY_USER }}" ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/var/www/vhosts/h118886.web172.dogado.net/httpdocs/TEST /public
         #run:  sshpass -p ${{ secrets.DEPLOY_KEY }} rsync ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/httpdocs/TEST /public
