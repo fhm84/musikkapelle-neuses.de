@@ -43,4 +43,4 @@ jobs:
       #    script: whoami
 
       - name: Deploy
-        run:  sshpass -p ${{ secrets.DEPLOY_USER }} rsync ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/httpdocs /public
+        run:  sshpass -p ${{ secrets.DEPLOY_KEY }} rsync ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/httpdocs/TEST /public
