@@ -6,8 +6,9 @@ headless = true
 weight = 500
 #background = "secondary"
 
-title = "60-jähriges Jubiläum"
+title = "Abgesagt: 60-jähriges Jubiläum"
 #subtitle = ""
 +++
 
-60 Jahre Musikkapelle Neuses e.V. - Festabend am 12. September 2020 im Gemeindesaal in Neuses.
+Der geplante Festabend zum 60-jährigen Jubiläum der Musikkapelle Neuses e.V. am 12. September 2020 wurde auf Grund der
+aktuellen Situation abgesagt.
