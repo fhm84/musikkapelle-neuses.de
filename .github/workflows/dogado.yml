@@ -23,5 +23,5 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        run: rsync -ratlz --rsh="sshpass -p ${{ secrets.DEPLOY_KEY }} ssh -o StrictHostKeyChecking=no -l ${{ secrets.DEPLOY_USER }}" ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_BASEDIR }}/httpdocs/TEST /public
+        run: rsync -ratlz --rsh="sshpass -p ${{ secrets.DEPLOY_KEY }} ssh -o StrictHostKeyChecking=no -l ${{ secrets.DEPLOY_USER }}" /public ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/httpdocs/TEST
         #run:  sshpass -p ${{ secrets.DEPLOY_KEY }} rsync ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/httpdocs/TEST /public
