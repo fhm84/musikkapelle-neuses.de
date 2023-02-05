@@ -10,5 +10,5 @@ title = "Dirigent"
 #subtitle = ""
 +++
 
-Die Spielgemeinschaft Igersheim/Neuses ist derzeit auf der Suche nach einem neuen
+Die Musikkapelle Neuses ist derzeit auf der Suche nach einem neuen
 Dirigenten.
