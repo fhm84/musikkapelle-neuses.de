@@ -7,4 +7,7 @@ weight = 20
   #url = "#"
 +++
 
-Flötengruppe
+Flötengruppe  
+Jung- und Neumusiker Ausbildung  
+Bläserklasse (gemeinsam mit den Harthäuser Musikanten und der Trachtenkapelle Igersheim in Kooperation mit der
+Musikschule Hohenlohe und der Johann-Adam-Möhler Schule Igersheim)

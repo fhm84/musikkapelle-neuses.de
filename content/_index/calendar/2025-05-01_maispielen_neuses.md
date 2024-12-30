@@ -1,5 +1,5 @@
 +++
-title = "01. Mai 2023 - Maispielen in Neuses"
+title = "01. Mai 2025 - Maispielen in Neuses"
 weight = 20
 +++
 

@@ -1,5 +1,5 @@
 +++
-title = "17. Dezember 2023 - Adventskonzert am Dorfplatz in Neuses"
+title = "14. Dezember 2025 - Adventskonzert am Dorfplatz in Neuses"
 weight = 80
 +++
 

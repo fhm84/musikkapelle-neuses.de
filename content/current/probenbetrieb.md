@@ -11,4 +11,4 @@ title = "Proben"
 +++
 
 Der aktuelle Probenplan sieht vor, dass Freitags um 
-19.30 Uhr Musikproben im Gemeindesaal in Neuses stattfinden.
+20.00 Uhr Musikproben im Gemeindesaal in Neuses stattfinden.

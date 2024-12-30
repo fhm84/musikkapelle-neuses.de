@@ -1,0 +1,12 @@
+name: mkn-site
+
+services:
+  server:
+    #image: hugomods/hugo:exts-non-root-0.140.1
+    image: klakegg/hugo:0.68.3-ext-alpine
+    command: server -D --disableFastRender
+    volumes:
+      - ./:/src
+      - ~/hugo_cache:/tmp/hugo_cache
+    ports:
+      - 1313:1313
