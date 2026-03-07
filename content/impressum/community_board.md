@@ -12,8 +12,8 @@ title = "Vorstand"
 
 _Vertretungsberechtigter Vorstand:_
 
-Andreas Halbmann (1. Vorsitzender)  
-Fabian Halbmann (2. Vorsitzende)
+Fabian Halbmann (1. Vorsitzende)  
+Elke Rauscher (2. Vorsitzende)
 
 _Registergericht:_ Amtsgericht Ulm  
 VR 680451 

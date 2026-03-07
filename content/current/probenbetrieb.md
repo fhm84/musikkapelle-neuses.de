@@ -8,7 +8,12 @@ weight = 20
 
 title = "Proben"
 #subtitle = ""
+
+[asset]
+  image = "dirigent2.jpg"
+
 +++
 
 Der aktuelle Probenplan sieht vor, dass Freitags um 
-20.00 Uhr Musikproben im Gemeindesaal in Neuses stattfinden.
+19.30 Uhr Musikproben im Gemeindesaal in Neuses stattfinden.  
+Hier sind zu Beginn auch unsere Jungmusiker bereits mit  dabei.

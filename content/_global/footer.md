@@ -18,6 +18,6 @@ menu_title = ""
 
 <i class="fas fa-map-pin fa-stack"></i> 97999 Igersheim-Neuses
 
-<i class="fas fa-mobile-alt fa-stack"></i> Tel.: 07931/45242
+<i class="fas fa-mobile-alt fa-stack"></i> Tel.: 07931/9321388
 
 <i class="fas fa-at fa-stack"></i> E-Mail: info@musikkapelle-neuses.de
